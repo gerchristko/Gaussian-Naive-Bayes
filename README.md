@@ -1,1 +1,2 @@
 # Gaussian-Naive-Bayes
+Creating a Gaussian Naïve Bayes classifier from scratch. The dataset used is the iris dataset. This repository is made specifically to accomodate a [Medium article](https://medium.com/@gerrychrist/implementing-na%C3%AFve-bayes-classification-from-scratch-with-python-badd5a9be9c3) I wrote.
